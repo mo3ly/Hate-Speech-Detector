@@ -16,8 +16,8 @@ This report presents an investigation that has been conducted on the OLID (Zampi
 ## Installation
 1. Clone the repository: `git clone https://github.com/your-username/Hate-Speech-Detector.git`
 2. Navigate to the project directory
-3. Install required packages: `pip install -r requirements.txt`
-4. Run the main script: `python main.py`
+3. Install required packages
+4. Run the main script: `python code.py`
 
 ## Results
 For a quick overview of the results, please refer to the following slide images.
