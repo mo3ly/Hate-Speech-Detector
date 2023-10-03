@@ -20,7 +20,7 @@ This report presents an investigation that has been conducted on the OLID (Zampi
 4. Run the main script: `python main.py`
 
 ## Results
-For a quick overview of the results, please refer to the slide images at the top of this README.
+For a quick overview of the results, please refer to the following slide images.
 
 
 ![Slide 1](images/slide1.JPG)
